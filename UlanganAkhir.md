@@ -11,12 +11,20 @@ NO|SOAL|MEDIA
 | | | 
 | 5 |Windows CMD [v] | ⭐⭐⭐⭐| 
 | | CMD adalah sistem penerjemah perintah yang berupa baris yang dieksekusi ke sistem operasi Microsoft Windows. Command Prompt atau CMD sering dikenal juga dengan ekstensi cmd.exe.Perintah Command Prompt dapat menjalankan task secara otomatis, Pada Tugas ini saya mempraktekan beberapa fungsi atau kode sebagai berikut | https://drive.google.com/file/d/1zjI1pm9m_8un0IgiBF-G8CYrhQxOwWZP/view?usp=drive_link , Fungsi , Dir , MD new_folderMAKEDIR new_folder, dan cd untuk mengcompaile file java pada suatu tempat di Folder yang disimpan
+| 6 | Linux Terminal Menggunakan Google Colab [v] | ⭐⭐⭐⭐|
+|  |  |
+|7 |  Membuat Algoritma Dalam Bentuk Flow Chart [v] | ⭐⭐⭐⭐⭐ |
+|  |  Pada Algoritma Flow Chart saya membuat algoritma ketika meminta mie kepada teman | '''mermaid flowchart TD
+    A[Meminta Mie pada Teman] --> B(Pergi Ke Kosan Teman)
+    B --> C{Berjalan ke teman}
+    C --> D(Ketuk Pintunya kosan teman)
+    D --> E(Tanyakan Mienya)
+    E --> F(Tersedia)
+     F-->|Satu| G[Kuah]
+    F -->|dua| H[Goreng]
+    E --> I(Tidak Tersedia)
+  I --> J(Kembali Ke Kosan)
 
-### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
-
-## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 

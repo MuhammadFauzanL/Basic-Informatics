@@ -10,8 +10,7 @@ NO|SOAL|MEDIA
 | 4| Mencoba Console Sistem Operasi |
 | | | 
 | 5 |Windows CMD [v] | ⭐⭐⭐⭐| 
-
-Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
+| | CMD adalah sistem penerjemah perintah yang berupa baris yang dieksekusi ke sistem operasi Microsoft Windows. Command Prompt atau CMD sering dikenal juga dengan ekstensi cmd.exe.Perintah Command Prompt dapat menjalankan task secara otomatis, Pada Tugas ini saya mempraktekan beberapa fungsi atau kode sebagai berikut | https://drive.google.com/file/d/1zjI1pm9m_8un0IgiBF-G8CYrhQxOwWZP/view?usp=drive_link , Fungsi , Dir , MD new_folderMAKEDIR new_folder, dan cd untuk mengcompaile file pada suatu tempat di Folder yang disimpan
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 

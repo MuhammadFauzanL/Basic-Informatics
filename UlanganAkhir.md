@@ -6,7 +6,7 @@ NO|SOAL|MEDIA
 2 | Menjelaskan Jenis-Jenis Mesin Komputasi| ⭐⭐⭐|
 | | | 
 3 | Mengktifkan dan Mencoba Google Colab [v] | ⭐⭐⭐⭐⭐|
-Jawaban | Saya Mencoba memakai library untuk speech to text namun tidak berhasil, file yang dikirim tidak bisa di Jalankan sudah mencari-cari caranya namun tidak menemukannya,lalu mencoba untuk menmpelajari pyton sederhana, library yang sayang gunakan |ttps://colab.research.google.com/drive/1Pwlhx3fzKcJJGnXk5t7JCcfqN4VUnTfZ?hl=id |
+ | Saya Mencoba memakai library untuk speech to text namun tidak berhasil, file yang dikirim tidak bisa di Jalankan sudah mencari-cari caranya namun tidak menemukannya,lalu mencoba untuk menmpelajari pyton sederhana, library yang sayang gunakan |ttps://colab.research.google.com/drive/1Pwlhx3fzKcJJGnXk5t7JCcfqN4VUnTfZ?hl=id |
 
 
 

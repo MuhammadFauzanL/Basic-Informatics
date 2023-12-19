@@ -30,33 +30,22 @@ NO|SOAL|MEDIA
 | 14 |Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] | ⭐⭐⭐ |
 ||||
 |15|Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v]| ⭐⭐⭐⭐|
-## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
-
-Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
-
-## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-
-Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
-
-## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-
-Referensi tutorial 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
-
-## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
-
-Referensi []
-
-## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
-
-## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-
-
-## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
-
-## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+||||
+|16|Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v]|⭐⭐|
+||||
+|17 | Mencoba Pelacakan Informasi Server dari Alamat Domain [v]| ⭐|
+||||
+|18|mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐ |
+||||
+|19| Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v]| ⭐⭐⭐ |
+||||
+|20| Mencoba Pembuatan File JSON [v] | ⭐⭐⭐|
+||||
+|21|Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v]| ⭐⭐⭐|
+||||
+|22 | Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] | ⭐⭐⭐ |
+||||
+|23 | Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] | ⭐⭐|
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 

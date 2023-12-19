@@ -17,13 +17,12 @@ NO|SOAL|MEDIA
 |  |  Pada Algoritma Flow Chart saya membuat algoritma menggunakan Mermaid.js dengan algoritma ketika meminta mie kepada teman | https://drive.google.com/drive/u/0/folders/1wtZwVXDUfx1eIhFMm-8Iak_Mg8fYAxrbflowchart TD  A[Meminta Mie pada Teman] --> B(Pergi Ke Kosan Teman)    B --> C{Berjalan ke teman} C --> D(Ketuk Pintunya kosan teman) D --> E(Tanyakan Mienya) E --> F(Tersedia)  F-->|Satu| G[Kuah] F -->|dua| H[Goreng] E --> I(Tidak Tersedia)  I --> J(Kembali Ke Kosan)
 | 8 | Mencoba Scratch Bahasa Indonesia [v] | ⭐⭐⭐⭐⭐⭐⭐ |
 |   | Pada penggunaan scratch yang dimana merupakan tugas dari fisika dasar untuk mebuat game dengan konsep materi fisika yang telah diajarkan, pada tugas ini membuat sebuah game pemadam kebakaran dengan capain hingga sampai ke tujuan, untuk detail element dan algoritma yang digunakan dapat dilihat pada link sebagai berikut | https://drive.google.com/drive/folders/1O5FXFOnvvI74UAeNvDxkA9McANrskdyg?usp=drive_link |
-
-## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
-
-## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
-
-## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
-
+| 9 |  Mencoba Algoritma Bubble Sort Menggunakan Java [v] | ⭐⭐⭐ |
+|   | Pada Algoritma Bubble sort ini menggunakan Array untuk mengisi nilai, untuk pengeksekusian dapat dilihat sebagai berikut  | https://drive.google.com/file/d/1bMXQ4QNTbU6IzIQK-YhmrVynIV3GF06Z/view?usp=drive_link |
+|10 |Mencoba dan Mendemonstrasikan Penggunakan IDE| ⭐⭐ |
+|||
+|11|  Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] |⭐⭐⭐⭐⭐|
+| | HackerRank pada saat ini masih mencoba- coba untuk beberapa bahasa seperti java dan pyhton, dan akan dikembangankan lebih jauh lagi | https://drive.google.com/file/d/1tU93dbmv8UdGKjodAOtPncw2fvQMglj6/view?usp=drive_link |
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐

@@ -35,7 +35,7 @@ NO|SOAL|MEDIA
 ||||
 |17 | Mencoba Pelacakan Informasi Server dari Alamat Domain [v]| ⭐|
 ||||
-|18|mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐ |
+|18|mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] |⭐⭐⭐ |
 ||||
 |19| Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v]| ⭐⭐⭐ |
 ||||
@@ -46,22 +46,18 @@ NO|SOAL|MEDIA
 |22 | Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] | ⭐⭐⭐ |
 ||||
 |23 | Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] | ⭐⭐|
-
-## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
-
-## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
-
-Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
-
-## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
-
-## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
-
-## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
-
-## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
-
+||||
+|24|Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v]| ⭐⭐⭐⭐⭐|
+||||
+|25 |Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] |⭐⭐ |
+||||
+|26| Mencoba Penggunaan Content Management System (Wordpress) [v] | ⭐⭐⭐|
+|||
+|27| Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) | ⭐⭐⭐ |
+||||
+|28| Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] | ⭐⭐ |
+||||
+|29|Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] |⭐⭐|
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐

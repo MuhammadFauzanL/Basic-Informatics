@@ -27,7 +27,7 @@ flowchart TD
     E --> I(Tidak Tersedia)
   I --> J(Kembali Ke Kosan)
 ```
---|--|--|
+---|---|---|
 | 8 | Mencoba Scratch Bahasa Indonesia [v] | ⭐⭐⭐⭐⭐⭐⭐ |
 
 

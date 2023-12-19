@@ -23,23 +23,13 @@ NO|SOAL|MEDIA
 |||
 |11|  Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] |⭐⭐⭐⭐⭐|
 | | HackerRank pada saat ini masih mencoba- coba untuk beberapa bahasa seperti java dan pyhton, dan akan dikembangankan lebih jauh lagi | https://drive.google.com/file/d/1tU93dbmv8UdGKjodAOtPncw2fvQMglj6/view?usp=drive_link |
-## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
-
-## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-
-Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
-Referensi tambahan [1](https://db-engines.com/en/ranking)
-
-## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
-
-Referensi installer [Dbeaver](https://dbeaver.io/download/)
-Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
-
-## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
-- Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
-- Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
-- Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
-
+|12| Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser| ⭐⭐⭐⭐⭐ |
+| | |
+|13 | Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] | ⭐⭐⭐ |
+|| sudah| |
+| 14 |Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] | ⭐⭐⭐ |
+||||
+|15|Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v]| ⭐⭐⭐⭐|
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)

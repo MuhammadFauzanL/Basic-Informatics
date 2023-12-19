@@ -27,11 +27,8 @@ flowchart TD
     E --> I(Tidak Tersedia)
   I --> J(Kembali Ke Kosan)
 ``` 
+| 8 | Mencoba Scratch Bahasa Indonesia [v] | ⭐⭐⭐⭐⭐⭐⭐ |
 
-
-## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-
-Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 

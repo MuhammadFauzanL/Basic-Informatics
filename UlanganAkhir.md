@@ -14,18 +14,7 @@ NO|SOAL|MEDIA
 | 6 | Linux Terminal Menggunakan Google Colab [v] | ⭐⭐⭐⭐|
 |  |  |
 | 7 |  Membuat Algoritma Dalam Bentuk Flow Chart [v] | ⭐⭐⭐⭐⭐ |
-|  |  Pada Algoritma Flow Chart saya membuat algoritma ketika meminta mie kepada teman | https://drive.google.com/drive/u/0/folders/1wtZwVXDUfx1eIhFMm-8Iak_Mg8fYAxrb flowchart TD
-    A[Meminta Mie pada Teman] --> B(Pergi Ke Kosan Teman)
-    B --> C{Berjalan ke teman}
-    C --> D(Ketuk Pintunya kosan teman)
-    D --> E(Tanyakan Mienya)
-    E --> F(Tersedia)
-     F-->|Satu| G[Kuah]
-    F -->|dua| H[Goreng]
-    E --> I(Tidak Tersedia)
-  I --> J(Kembali Ke Kosan)
-
-
+|  |  Pada Algoritma Flow Chart saya membuat algoritma ketika meminta mie kepada teman | https://drive.google.com/drive/u/0/folders/1wtZwVXDUfx1eIhFMm-8Iak_Mg8fYAxrbflowchart TD  A[Meminta Mie pada Teman] --> B(Pergi Ke Kosan Teman)    B --> C{Berjalan ke teman} C --> D(Ketuk Pintunya kosan teman) D --> E(Tanyakan Mienya) E --> F(Tersedia)  F-->|Satu| G[Kuah] F -->|dua| H[Goreng] E --> I(Tidak Tersedia)  I --> J(Kembali Ke Kosan)
 | 8 | Mencoba Scratch Bahasa Indonesia [v] | ⭐⭐⭐⭐⭐⭐⭐ |
 
 

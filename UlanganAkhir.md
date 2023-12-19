@@ -15,6 +15,7 @@ NO|SOAL|MEDIA
 |  |  |
 | 7 |  Membuat Algoritma Dalam Bentuk Flow Chart [v] | ⭐⭐⭐⭐⭐ |
 |  |  Pada Algoritma Flow Chart saya membuat algoritma ketika meminta mie kepada teman | 
+|
 ```mermaid 
 flowchart TD
     A[Meminta Mie pada Teman] --> B(Pergi Ke Kosan Teman)
@@ -27,7 +28,7 @@ flowchart TD
     E --> I(Tidak Tersedia)
   I --> J(Kembali Ke Kosan)
 ```
-|---|---|---|
+|
 | 8 | Mencoba Scratch Bahasa Indonesia [v] | ⭐⭐⭐⭐⭐⭐⭐ |
 
 

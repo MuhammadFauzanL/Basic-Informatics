@@ -7,12 +7,8 @@ NO|SOAL|MEDIA
 | | | 
 3 | Mengktifkan dan Mencoba Google Colab [v] | ⭐⭐⭐⭐⭐|
 |  | Saya Mencoba memakai library untuk speech to text namun tidak berhasil, file yang dikirim tidak bisa di Jalankan sudah mencari-cari caranya namun tidak menemukannya,lalu mencoba untuk menmpelajari pyton sederhana, library yang saya gunakansebagai berikut | ttps://colab.research.google.com/drive/1Pwlhx3fzKcJJGnXk5t7JCcfqN4VUnTfZ?hl=id , Library : speechrecognition,pandas as pd,drive.mount|
-
-
-
-
-## Mencoba Console Sistem Operasi
-
+|| Mencoba Console Sistem Operasi||
+| | | 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)

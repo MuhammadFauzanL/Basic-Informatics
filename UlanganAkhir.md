@@ -1,8 +1,8 @@
 
 NO|SOAL|MEDIA
 --|---|---|
-1| Menjelaskan dan Menginternalisasi Computational Thinking |⭐⭐⭐⭐⭐⭐⭐
-2|Saya Mencoba memakai library untuk speech to text namun tidak berhasil, file yang dikirim tidak bisa di Jalankan sudah mencari-cari caranya namun tidak menemukannya,lalu mencoba untuk 
+ 1 | Menjelaskan dan Menginternalisasi Computational Thinking |⭐⭐⭐⭐⭐⭐⭐
+ 2 |Saya Mencoba memakai library untuk speech to text namun tidak berhasil, file yang dikirim tidak bisa di Jalankan sudah mencari-cari caranya namun tidak menemukannya,lalu mencoba untuk 
 menmpelajari pyton sederhana, library yang sayang gunakan|ttps://colab.research.google.com/drive/1Pwlhx3fzKcJJGnXk5t7JCcfqN4VUnTfZ?hl=id|
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 

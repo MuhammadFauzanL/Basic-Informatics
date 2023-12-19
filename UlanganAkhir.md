@@ -16,7 +16,7 @@ NO|SOAL|MEDIA
 | 7 |  Membuat Algoritma Dalam Bentuk Flow Chart [v] | ⭐⭐⭐⭐⭐ |
 |  |  Pada Algoritma Flow Chart saya membuat algoritma menggunakan Mermaid.js dengan algoritma ketika meminta mie kepada teman | https://drive.google.com/drive/u/0/folders/1wtZwVXDUfx1eIhFMm-8Iak_Mg8fYAxrbflowchart TD  A[Meminta Mie pada Teman] --> B(Pergi Ke Kosan Teman)    B --> C{Berjalan ke teman} C --> D(Ketuk Pintunya kosan teman) D --> E(Tanyakan Mienya) E --> F(Tersedia)  F-->|Satu| G[Kuah] F -->|dua| H[Goreng] E --> I(Tidak Tersedia)  I --> J(Kembali Ke Kosan)
 | 8 | Mencoba Scratch Bahasa Indonesia [v] | ⭐⭐⭐⭐⭐⭐⭐ |
-|   | Pada penggunaan scratch yang dimana merupakan tugas dari fisika dasar untuk mebuat game dengan konsep materi fisika yang telah diajarkan, pada tugas ini membuat sebuah game pemadam kebakaran dengan capain hingga sampai ke tujuan, untuk detail gambar dan algoritma yang digunakan dapat dilihat pada link sebagai berikut | https://drive.google.com/drive/folders/1O5FXFOnvvI74UAeNvDxkA9McANrskdyg?usp=drive_link |
+|   | Pada penggunaan scratch yang dimana merupakan tugas dari fisika dasar untuk mebuat game dengan konsep materi fisika yang telah diajarkan, pada tugas ini membuat sebuah game pemadam kebakaran dengan capain hingga sampai ke tujuan, untuk detail element dan algoritma yang digunakan dapat dilihat pada link sebagai berikut | https://drive.google.com/drive/folders/1O5FXFOnvvI74UAeNvDxkA9McANrskdyg?usp=drive_link |
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 

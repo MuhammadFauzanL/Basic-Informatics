@@ -53,9 +53,9 @@ NO|SOAL|MEDIA
 |25 |Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] |⭐⭐ |
 ||||
 |26| Mencoba Penggunaan Content Management System (Wordpress) [v] | ⭐⭐⭐|
-|||
-|27| Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) | ⭐⭐⭐ |
 |||https://fauzanlubada5.wordpress.com|
+|27| Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) | ⭐⭐⭐ |
+||||
 |28| Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] | ⭐⭐ |
 ||||
 |29|Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] |⭐⭐|

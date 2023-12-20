@@ -37,7 +37,7 @@ NO|SOAL|MEDIA
 |17 | Mencoba Pelacakan Informasi Server dari Alamat Domain [v]| ⭐|
 ||||
 |18|mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] |⭐⭐⭐ |
-||||
+||Membuat Text dan sedikit Interface pada web |https://drive.google.com/drive/folders/1UozsETiBolcjy7R_FwgeCGkh7UtoXRve?usp=drive_link|
 |19| Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v]| ⭐⭐⭐ |
 ||||
 |20| Mencoba Pembuatan File JSON [v] | ⭐⭐⭐|

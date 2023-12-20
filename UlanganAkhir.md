@@ -41,7 +41,7 @@ NO|SOAL|MEDIA
 |19| Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v]| ⭐⭐⭐ |
 ||||
 |20| Mencoba Pembuatan File JSON [v] | ⭐⭐⭐|
-||||
+|||https://drive.google.com/file/d/1ixXMydhXsR5n7DRuyZBvRC8vHFzJYVBc/view?usp=drive_link|
 |21|Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v]| ⭐⭐⭐|
 ||||
 |22 | Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] | ⭐⭐⭐ |

@@ -55,7 +55,7 @@ NO|SOAL|MEDIA
 |26| Mencoba Penggunaan Content Management System (Wordpress) [v] | ⭐⭐⭐|
 |||
 |27| Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) | ⭐⭐⭐ |
-||||
+|||https://fauzanlubada5.wordpress.com|
 |28| Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] | ⭐⭐ |
 ||||
 |29|Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] |⭐⭐|

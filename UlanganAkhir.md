@@ -65,41 +65,24 @@ NO|SOAL|MEDIA
 |33|Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] |⭐⭐⭐|
 |34| Mencoba Data Visualization Dengan Tools [v] |⭐⭐|
 |35| Mencoba Data Visualization Dengan Code [v] |⭐⭐|
-
-## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
-
-## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
-
-## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
-
-## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
-
-## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
-
-## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
-
-## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
-
-## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
-
-## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
-
-## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
-
-## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
-
-## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
-
-## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
-
-## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
-
-## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
-
-## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
-
-## Membangun Profil Github Page ⭐⭐⭐⭐⭐
-
-## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
-
-## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+|36| Mendaftar dan Mencoba Eksplorasi HuggingFace [v] |⭐⭐⭐|
+|37| Mendaftar dan Mencoba Eksplorasi Kaggle [v] |⭐⭐⭐⭐|
+|38| Mencoba Protokol Komunikasi IoT (MQTT) [v] |⭐|
+|39| Mencoba Memproses File CSV Menggunakan Google Colab [v] | ⭐⭐|
+|40 | mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] |⭐⭐ |
+|41| Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] |⭐⭐⭐⭐⭐|
+|42| Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] |⭐⭐⭐⭐|
+|43|  Menonton Video Presentasi Tugas Akhir Informatika |⭐⭐⭐⭐⭐|
+|44| Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati|  ⭐⭐⭐⭐ |
+|45|Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) |⭐⭐⭐|
+|46|Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk)| ⭐⭐⭐ |
+|47| Eksplorasi Lowongan Pekerjaan IT |⭐⭐⭐|
+|48|Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com)| ⭐⭐⭐|
+|49| Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh |⭐⭐⭐|
+|50| Eksplorasi Top Github Project yang Diminati| ⭐⭐ |
+|51| Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika|  ⭐⭐⭐| 
+|52|  Membangun Profil Github Page | ⭐⭐⭐⭐⭐|
+|53| Mengikuti Workshop / Event / Course Terkait IT| ⭐⭐⭐⭐|
+|54| Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika |⭐⭐⭐⭐⭐|
+| | Pesan moralnya adalah pentingnya kesadaran akan perubahan-perubahan kecil di sekitar kita dan pentingnya bertindak atau merespon terhadap tanda-tanda awal masalah untuk mencegah situasi yang lebih buruk di masa depan. Jangan biarkan diri kita terjebak dalam ketidaksadaran seperti katak dalam air panas atau mengabaikan tanda-tanda 
+ kecil yang bisa menjadi sumber masalah yang lebih besar. | |

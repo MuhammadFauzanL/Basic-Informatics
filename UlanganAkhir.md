@@ -28,7 +28,7 @@ NO|SOAL|MEDIA
 |13 | Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] | ⭐⭐⭐ |
 || Intralasi SQL Sudah namun belum digunakanan|https://drive.google.com/file/d/1oFoudIPMY1bKTp-XmevRpc3pyQcPnS6n/view?usp=drive_link |
 | 14 |Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] | ⭐⭐⭐ |
-||||
+||Sudah Mencoba dan research dengan database MySQL|https://drive.google.com/file/d/1tXsCa0Aj763tYb1_Tqsg6m-X-0aLdchD/view?usp=drive_link|
 |15|Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v]| ⭐⭐⭐⭐|
 ||||
 |16|Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v]|⭐⭐|

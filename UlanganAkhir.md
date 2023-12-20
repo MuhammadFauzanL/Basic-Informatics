@@ -84,5 +84,4 @@ NO|SOAL|MEDIA
 |52|  Membangun Profil Github Page | ⭐⭐⭐⭐⭐|
 |53| Mengikuti Workshop / Event / Course Terkait IT| ⭐⭐⭐⭐|
 |54| Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika |⭐⭐⭐⭐⭐|
-| | Pesan moralnya adalah pentingnya kesadaran akan perubahan-perubahan kecil di sekitar kita dan pentingnya bertindak atau merespon terhadap tanda-tanda awal masalah untuk mencegah situasi yang lebih buruk di masa depan. Jangan biarkan diri kita terjebak dalam ketidaksadaran seperti katak dalam air panas atau mengabaikan tanda-tanda 
- kecil yang bisa menjadi sumber masalah yang lebih besar. | |
+| | Pesan moralnya adalah pentingnya kesadaran akan perubahan-perubahan kecil di sekitar kita dan pentingnya bertindak atau merespon terhadap tanda-tanda awal masalah untuk mencegah situasi yang lebih buruk di masa depan. Jangan biarkan diri kita terjebak dalam ketidaksadaran seperti katak dalam air panas atau mengabaikan tanda-tanda kecil yang bisa menjadi sumber masalah yang lebih besar. | |

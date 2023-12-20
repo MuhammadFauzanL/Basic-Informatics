@@ -58,17 +58,12 @@ NO|SOAL|MEDIA
 |28| Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] | ⭐⭐ |
 ||||
 |29|Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] |⭐⭐|
-## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
-
-## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
-
-## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
-
-## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
-
-## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
-
-## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+|30|Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v]| ⭐⭐⭐|
+|31| Mencoba Web Tool AI Discriminative (Image Classification) [v] |⭐⭐⭐⭐|
+|32| Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v]  |⭐⭐⭐⭐|
+|33|Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] |⭐⭐⭐|
+|34| Mencoba Data Visualization Dengan Tools [v] |⭐⭐|
+|35| Mencoba Data Visualization Dengan Code [v] |⭐⭐|
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 

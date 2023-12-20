@@ -5,11 +5,8 @@ NO|SOAL|MEDIA
 | |"Computational Thinking is the thought processes involved in formulating problems and their solutions so that the solutions are represented in a form that can be effectively carried out by an information-processing agent." Like a source code is a Model computeer. and information processing agent example is human and computer? why computer because the computer like the human imitation, and cause that the programer make a AI
 | |
 |2 | Menjelaskan Jenis-Jenis Mesin Komputasi| ⭐⭐⭐|
-| |Mobile computing
-**Mobile computing** atau komputasi bergerak memiliki beberapa penjelasan, salah satunya komputasi bergerak ,**Grid computing** Komputasi grid menggunakan komputer yang terpisah oleh geografis, didistibusikan dan terhubung oleh jaringan untuk menyelasaikan masalah komputasi skala besar.**Cloud computinZg**
+| | **Mobile computing** atau komputasi bergerak memiliki beberapa penjelasan, salah satunya komputasi bergerak ,**Grid computing** Komputasi grid menggunakan komputer yang terpisah oleh geografis, didistibusikan dan terhubung oleh jaringan untuk menyelasaikan masalah komputasi skala besar.**Cloud computinZg**
 Komputasi cloud merupakan gaya komputasi yang terukur dinamis dan sumber daya virtual yang sering menyediakan layanan melalui internet.
-
-
  | |  
 |3 | Mengktifkan dan Mencoba Google Colab [v] | ⭐⭐⭐⭐⭐|
 |  |Google colab menggunakan bahasa pemograman python dan ketika dieksekusi menggunakan jaringan internet Saya Mencoba memakai library untuk speech to text namun tidak berhasil, file yang dikirim tidak bisa di Jalankan sudah mencari-cari caranya namun tidak menemukannya,lalu mencoba untuk menmpelajari pyton sederhana, library yang saya gunakansebagai berikut | https://colab.research.google.com/drive/1Pwlhx3fzKcJJGnXk5t7JCcfqN4VUnTfZ?hl=id , Library : speechrecognition,pandas as pd,drive.mount|

@@ -1,6 +1,6 @@
 
 NO|SOAL|MEDIA
-|---|---|---|
+|---|---|--|
  1 | Menjelaskan dan Menginternalisasi Computational Thinking |⭐⭐⭐⭐⭐⭐⭐
 | |"Computational Thinking is the thought processes involved in formulating problems and their solutions so that the solutions are represented in a form that can be effectively carried out by an information-processing agent." Like a source code is a Model computeer. and information processing agent example is human and computer? why computer because the computer like the human imitation, and cause that the programer make a AI
 | |

@@ -81,7 +81,7 @@ NO|SOAL|MEDIA
 |49| Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh |⭐⭐⭐|
 |50| Eksplorasi Top Github Project yang Diminati| ⭐⭐ |
 |51| Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika|  ⭐⭐⭐| 
-|52|  Membangun Profil Github Page | ⭐⭐⭐⭐⭐|
+|52|  Membangun Profil Github Page | ⭐⭐⭐⭐⭐|https://drive.google.com/file/d/1QL88u2d39r2HWIFn9KW735Kf8NsHOWh_/view?usp=sharing|
 |53| Mengikuti Workshop / Event / Course Terkait IT| ⭐⭐⭐⭐|
 |54| Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika |⭐⭐⭐⭐⭐|
 | | Pesan moralnya adalah pentingnya kesadaran akan perubahan-perubahan kecil di sekitar kita dan pentingnya bertindak atau merespon terhadap tanda-tanda awal masalah untuk mencegah situasi yang lebih buruk di masa depan. Jangan biarkan diri kita terjebak dalam ketidaksadaran seperti katak dalam air panas atau mengabaikan tanda-tanda kecil yang bisa menjadi sumber masalah yang lebih besar. |https://drive.google.com/file/d/1QL88u2d39r2HWIFn9KW735Kf8NsHOWh_/view?usp=sharing |

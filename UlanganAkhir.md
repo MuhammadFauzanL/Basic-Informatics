@@ -27,7 +27,7 @@ NO|SOAL|MEDIA
 |12| Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser| ⭐⭐⭐⭐⭐ |
 | | |
 |13 | Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] | ⭐⭐⭐ |
-|| Intralasi SQL Sudah namun belum digunakanan|https://drive.google.com/file/d/1oFoudIPMY1bKTp-XmevRpc3pyQcPnS6n/view?usp=drive_link |
+|| Intralasi SQL Sudah namun belum digunakanan| <img width="960" alt="sql" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/c9603476-9950-4949-a642-dba26a5f763a">|
 | 14 |Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] | ⭐⭐⭐ |
 ||Sudah Mencoba dan research dengan database MySQL|https://drive.google.com/file/d/1tXsCa0Aj763tYb1_Tqsg6m-X-0aLdchD/view?usp=drive_link|
 |15|Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v]| ⭐⭐⭐⭐|

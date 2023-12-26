@@ -69,6 +69,7 @@ NO|SOAL|MEDIA
 |37| Mendaftar dan Mencoba Eksplorasi Kaggle [v] |⭐⭐⭐⭐|
 |38| Mencoba Protokol Komunikasi IoT (MQTT) [v] |⭐|
 |39| Mencoba Memproses File CSV Menggunakan Google Colab [v] | ⭐⭐|
+||MEnggunakan library drive.mount dan panda as. File CSV didapatkan dari web kaggle https://colab.research.google.com/drive/1p-VSJVSUuoliWdqdBR9-JwyEHj94ILmh?usp=sharing |<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/c6576391-cb16-4a40-9d72-ff4c9dcfe9e5">  <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/a6f75933-d7ec-4f80-b0f0-1357f832dc0b">|
 |40 | mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] |⭐⭐ |
 ||Sudah mencoba namun gagal terus menerus pembuatan contoh Big Data ORC Menggunakan pyspark https://colab.research.google.com/drive/1nufnAR6eDkZNsSQ2ZGTtFOjrH2xTgxlj?usp=sharing| <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/9cefc4d5-1be9-465c-84bc-9b480f24b434"> <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/bce5a78c-9b6f-4585-9679-c9f54b698486"> |
 |41| Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] |⭐⭐⭐⭐⭐|

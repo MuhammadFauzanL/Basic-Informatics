@@ -80,7 +80,8 @@ NO|SOAL|MEDIA
 |48|Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com)| ⭐⭐⭐|
 |49| Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh |⭐⭐⭐|
 |50| Eksplorasi Top Github Project yang Diminati| ⭐⭐ |
-|51| Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika|  ⭐⭐⭐| 
+|51| Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika|  ⭐⭐⭐|
+||Profil linkedin Muhammad Fauzan Lubada https://www.linkedin.com/in/m-fauzan-lubada-a00a092a6/|<img width="960" alt="linkedin" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/182e9a47-23da-4d7d-8d8f-1a8891ac8686">
 |52|  Membangun Profil Github Page | ⭐⭐⭐⭐⭐|
 || Profile giithub https://github.com/MuhammadFauzanL | <img width="960" alt="GITTHUB" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/3e0d52f4-c634-4f09-ad64-77c6ff7a3197">|
 |53| Mengikuti Workshop / Event / Course Terkait IT| ⭐⭐⭐⭐|

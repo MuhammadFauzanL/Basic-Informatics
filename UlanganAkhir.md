@@ -80,7 +80,7 @@ NO|SOAL|MEDIA
 |48|Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com)| ⭐⭐⭐|
 |49| Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh |⭐⭐⭐|
 |50| Eksplorasi Top Github Project yang Diminati| ⭐⭐ |
-||Top Project github akan di reasearch lebih jauh ketika sudah memasuki jeda ke semester 2 (https://github.com/dev-aniketj/WeatherApp-Android) | <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/757c7674-ffe7-4a1a-882e-ef72cf130153">|
+||Top Project github akan di reasearch lebih jauh ketika sudah memasuki jeda ke semester 2 (https://github.com/dev-aniketj/WeatherApp-Android) |<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/757c7674-ffe7-4a1a-882e-ef72cf130153">|
 |51| Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika|  ⭐⭐⭐|
 ||Profil linkedin Muhammad Fauzan Lubada https://www.linkedin.com/in/m-fauzan-lubada-a00a092a6/|<img width="960" alt="linkedin" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/182e9a47-23da-4d7d-8d8f-1a8891ac8686">
 |52|  Membangun Profil Github Page | ⭐⭐⭐⭐⭐|

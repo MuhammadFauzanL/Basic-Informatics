@@ -82,7 +82,6 @@ NO|SOAL|MEDIA
 ||Menuggunakan duolinggo dan sudah mencapai stage 3 yang akan dilanjutkan lebih jauh|<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/c291b3cd-134f-4e43-b4f4-0b0e2c98c6ec">|
 |46|Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk)| ⭐⭐⭐ |
 ||Sudah melakukan instalasi dan akan dikembangkan lebih jauh lagi |![WhatsApp Image 2023-12-26 at 21 02 20_9235a256](https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/6fe68c10-cf14-4849-a5c4-34b1f3cb9722)
-|
 |47| Eksplorasi Lowongan Pekerjaan IT |⭐⭐⭐|
 ||Sya menggunakan JOBSTREET untuk mencari lowongan pekerjaan https://www.jobstreet.co.id/id/profile/me|<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/7078c2ba-6eb7-4f01-ab4a-24d76e91fe70">|
 |48|Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com)| ⭐⭐⭐|

@@ -1,4 +1,4 @@
-<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/0979ca65-934b-4d21-8ab5-41295a7522ce"><img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/f43b4ca9-d507-4c93-bb66-c7c29a36d142">
+
 NO|SOAL|MEDIA
 |---|---|--|
  1 | Menjelaskan dan Menginternalisasi Computational Thinking |⭐⭐⭐⭐⭐⭐⭐

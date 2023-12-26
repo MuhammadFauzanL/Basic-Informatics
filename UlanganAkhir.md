@@ -73,6 +73,7 @@ NO|SOAL|MEDIA
 |41| Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] |⭐⭐⭐⭐⭐|
 |42| Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] |⭐⭐⭐⭐|
 |43|  Menonton Video Presentasi Tugas Akhir Informatika |⭐⭐⭐⭐⭐|
+| | Sidang Akhir ini berjudul Rancang Bangun Aplikasi MarketplaceSidang dilakukan oleh seorang Mahasiswa tingkat akhir sebagai  salah satu syarat yang harus dipenuhi oleh mahasiswa untuk mencapai kelulusan.dalam video Ini Mahasiswa dibimbing oleh 2 pembimbing dan dan 2 penguji pertama sidan dibuka  oleh ketua sidangPertama-tama penguji menanyakan apa alasan mahasiswa tersebut mengambil judul dalam penulisan skipsinya setelah itu dalam video ini penguji menanyakan keorisinilan dari penelitian hasil mahasiswa tersebut setelah itu penguji menanyakan keunggulan aplikasinya, keefektifan aplikasi dan fitur fitur yang terdapat dalam aplikasi tersebut dan melakukan hal apa yang seharusnya dikembangan, dicukupkan dan diperbaiki lagi mengenai project yang mahasiswa lakukan| |
 |44| Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati|  ⭐⭐⭐⭐ |
 |45|Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) |⭐⭐⭐|
 ||Menuggunakan duolinggo dan sudah mencapai stage 3 yang akan dilanjutkan lebih jauh|<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/c291b3cd-134f-4e43-b4f4-0b0e2c98c6ec">|

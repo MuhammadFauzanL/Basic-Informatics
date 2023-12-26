@@ -77,7 +77,9 @@ NO|SOAL|MEDIA
 |45|Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) |⭐⭐⭐|
 |46|Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk)| ⭐⭐⭐ |
 |47| Eksplorasi Lowongan Pekerjaan IT |⭐⭐⭐|
+||Sya menggunakan JOBSTREET untuk mencari lowongan pekerjaan|<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/7078c2ba-6eb7-4f01-ab4a-24d76e91fe70">|
 |48|Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com)| ⭐⭐⭐|
+||https://www.freelancer.com/u/fauzanlubada16| <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/8fe1393f-a0e7-4634-b1f5-7722a35cffeb"> |
 |49| Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh |⭐⭐⭐|
 ||didalam Roadmap.sh berguna sebagau peta untuk menunjukkan arah jalan, pada web ini saya mencoba menjadi Cyber Security Expert dan mencoba TryHackMe didalam Website | <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/98a9763f-9465-4f7c-b9f1-e40063270107"> <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/23191806-e54d-4bb6-a719-1cd612f1d262"> |
 |50| Eksplorasi Top Github Project yang Diminati| ⭐⭐ |

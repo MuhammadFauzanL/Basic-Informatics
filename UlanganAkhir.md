@@ -75,9 +75,11 @@ NO|SOAL|MEDIA
 |43|  Menonton Video Presentasi Tugas Akhir Informatika |⭐⭐⭐⭐⭐|
 |44| Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati|  ⭐⭐⭐⭐ |
 |45|Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) |⭐⭐⭐|
+||Menuggunakan duolinggo dan sudah mencapai stage 3 yang akan dilanjutkan lebih jauh|<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/c291b3cd-134f-4e43-b4f4-0b0e2c98c6ec">
+|
 |46|Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk)| ⭐⭐⭐ |
 |47| Eksplorasi Lowongan Pekerjaan IT |⭐⭐⭐|
-||Sya menggunakan JOBSTREET untuk mencari lowongan pekerjaan|<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/7078c2ba-6eb7-4f01-ab4a-24d76e91fe70">|
+||Sya menggunakan JOBSTREET untuk mencari lowongan pekerjaan https://www.jobstreet.co.id/id/profile/me|<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/7078c2ba-6eb7-4f01-ab4a-24d76e91fe70">|
 |48|Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com)| ⭐⭐⭐|
 ||https://www.freelancer.com/u/fauzanlubada16| <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/8fe1393f-a0e7-4634-b1f5-7722a35cffeb"> |
 |49| Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh |⭐⭐⭐|

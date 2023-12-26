@@ -64,6 +64,7 @@ NO|SOAL|MEDIA
 |33|Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] |⭐⭐⭐|
 |34| Mencoba Data Visualization Dengan Tools [v] |⭐⭐|
 |35| Mencoba Data Visualization Dengan Code [v] |⭐⭐|
+||Mencoba visualisasi tingkat kemakmusaran masyarakat tiap tahunnya dengan grafik X = Sebagai tingkatannya dan Y= Tahunnya |https://colab.research.google.com/drive/143cgP0yJRndGaAQLPi96iRWNWCdR15q-?usp=sharing <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/04a265e7-8e1d-44e2-ad04-fee3ce9a7f40">|
 |36| Mendaftar dan Mencoba Eksplorasi HuggingFace [v] |⭐⭐⭐|
 ||Hugging Face adalah salah satu sumber utama untuk NLP dengan menyediakan akses terbuka, memiliki berbagai macam tools,.Didalam HUGINGFACE terdapat pipeline, model /tokenizer  , pytroch/Tensor Flow dan save/load  . Dalam soal ini saya masih mencari lebih jauh tentang hugingface kendalanya belum tersedia creator indonesia yang membuat tutorial hugingface jadi saya masih melihat dari channel yang lain |<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/38029d31-f8a2-4e4f-917b-92edd66d7533"> <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/c4221c4f-524c-4a9e-b86d-5882b5f09ce4">|
 |37| Mendaftar dan Mencoba Eksplorasi Kaggle [v] |⭐⭐⭐⭐|

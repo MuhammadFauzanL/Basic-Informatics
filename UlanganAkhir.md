@@ -67,6 +67,7 @@ NO|SOAL|MEDIA
 |35| Mencoba Data Visualization Dengan Code [v] |⭐⭐|
 |36| Mendaftar dan Mencoba Eksplorasi HuggingFace [v] |⭐⭐⭐|
 |37| Mendaftar dan Mencoba Eksplorasi Kaggle [v] |⭐⭐⭐⭐|
+||Pembuatan CSV dengan Notebook Kaggle(Gagal dalam running menggunakan google colab  seperti pada nomor 39 Namun Berhasil ketika disimpan |<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/a167fa54-ae35-4859-abc3-43c5fd085d94"> <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/70a80120-9353-4636-b3f3-33bee7f22973">|
 |38| Mencoba Protokol Komunikasi IoT (MQTT) [v] |⭐|
 |39| Mencoba Memproses File CSV Menggunakan Google Colab [v] | ⭐⭐|
 ||Menggunakan library drive.mount dan panda as. File CSV didapatkan dari web kaggle https://colab.research.google.com/drive/1p-VSJVSUuoliWdqdBR9-JwyEHj94ILmh?usp=sharing |<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/c6576391-cb16-4a40-9d72-ff4c9dcfe9e5">  <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/a6f75933-d7ec-4f80-b0f0-1357f832dc0b">|

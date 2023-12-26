@@ -81,7 +81,8 @@ NO|SOAL|MEDIA
 |49| Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh |⭐⭐⭐|
 |50| Eksplorasi Top Github Project yang Diminati| ⭐⭐ |
 |51| Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika|  ⭐⭐⭐| 
-|52|  Membangun Profil Github Page | ⭐⭐⭐⭐⭐|https://drive.google.com/file/d/1QL88u2d39r2HWIFn9KW735Kf8NsHOWh_/view?usp=sharing|
+|52|  Membangun Profil Github Page | ⭐⭐⭐⭐⭐|
+|| Profile giithub https://github.com/MuhammadFauzanL | <img width="960" alt="GITTHUB" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/3e0d52f4-c634-4f09-ad64-77c6ff7a3197">|
 |53| Mengikuti Workshop / Event / Course Terkait IT| ⭐⭐⭐⭐|
 | | Mengikuti course it digicoding mengin machine learning dengan link yang diberikan youtube |[dicoding-developer-coaching-116-machine-learning-pengenalan-model-deployment-dengan-tensorflow-certificate.pdf](https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/files/13768170/dicoding-developer-coaching-116-machine-learning-pengenalan-model-deployment-dengan-tensorflow-certificate.pdf)|
 |54| Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika |⭐⭐⭐⭐⭐|

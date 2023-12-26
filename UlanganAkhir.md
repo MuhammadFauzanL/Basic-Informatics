@@ -79,8 +79,7 @@ NO|SOAL|MEDIA
 |47| Eksplorasi Lowongan Pekerjaan IT |⭐⭐⭐|
 |48|Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com)| ⭐⭐⭐|
 |49| Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh |⭐⭐⭐|
-||didalam Roadmap.sh berguna sebagau peta untuk menunjukkan arah jalan, pada web ini saya mencoba menjadi Cyber Security Expert dan mencoba TryHackMe didalam Website|<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/fbdfec1d-cefb-40b2-8dcd-7be1167090cd">
-<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/d5fa52a9-c0da-4a83-8d1f-e25cf2bfd6f7">|
+||didalam Roadmap.sh berguna sebagau peta untuk menunjukkan arah jalan, pada web ini saya mencoba menjadi Cyber Security Expert dan mencoba TryHackMe didalam Website | <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/fbdfec1d-cefb-40b2-8dcd-7be1167090cd"> <img width="960" alt="image"src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/d5fa52a9-c0da-4a83-8d1f-e25cf2bfd6f7">|
 |50| Eksplorasi Top Github Project yang Diminati| ⭐⭐ |
 ||Top Project github akan di reasearch lebih jauh ketika sudah memasuki jeda ke semester 2 (https://github.com/dev-aniketj/WeatherApp-Android) |<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/757c7674-ffe7-4a1a-882e-ef72cf130153">|
 |51| Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika|  ⭐⭐⭐|

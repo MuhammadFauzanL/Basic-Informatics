@@ -79,9 +79,8 @@ NO|SOAL|MEDIA
 |47| Eksplorasi Lowongan Pekerjaan IT |⭐⭐⭐|
 |48|Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com)| ⭐⭐⭐|
 |49| Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh |⭐⭐⭐|
-|||<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/fbdfec1d-cefb-40b2-8dcd-7be1167090cd">
-<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/d5fa52a9-c0da-4a83-8d1f-e25cf2bfd6f7">
-|
+||didalam Roadmap.sh berguna sebagau peta untuk menunjukkan arah jalan, pada web ini saya mencoba menjadi Cyber Security Expert dan mencoba TryHackMe didalam Website|<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/fbdfec1d-cefb-40b2-8dcd-7be1167090cd">
+<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/d5fa52a9-c0da-4a83-8d1f-e25cf2bfd6f7">|
 |50| Eksplorasi Top Github Project yang Diminati| ⭐⭐ |
 ||Top Project github akan di reasearch lebih jauh ketika sudah memasuki jeda ke semester 2 (https://github.com/dev-aniketj/WeatherApp-Android) |<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/757c7674-ffe7-4a1a-882e-ef72cf130153">|
 |51| Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika|  ⭐⭐⭐|
@@ -89,6 +88,6 @@ NO|SOAL|MEDIA
 |52|  Membangun Profil Github Page | ⭐⭐⭐⭐⭐|
 || Profile giithub https://github.com/MuhammadFauzanL | <img width="960" alt="GITTHUB" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/3e0d52f4-c634-4f09-ad64-77c6ff7a3197">|
 |53| Mengikuti Workshop / Event / Course Terkait IT| ⭐⭐⭐⭐|
-| | Mengikuti course it digicoding mengin machine learning dengan link yang diberikan youtube |[dicoding-developer-coaching-116-machine-learning-pengenalan-model-deployment-dengan-tensorflow-certificate.pdf](https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/files/13768170/dicoding-developer-coaching-116-machine-learning-pengenalan-model-deployment-dengan-tensorflow-certificate.pdf)|
+| | Mengikuti course it digicoding mengin machine learning dengan link yang diberikan youtube | [dicoding-developer-coaching-116-machine-learning-pengenalan-model-deployment-dengan-tensorflow-certificate.pdf](https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/files/13768170/dicoding-developer-coaching-116-machine-learning-pengenalan-model-deployment-dengan-tensorflow-certificate.pdf)| 
 |54| Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika |⭐⭐⭐⭐⭐|
 | | Pesan moralnya adalah pentingnya kesadaran akan perubahan-perubahan kecil di sekitar kita dan pentingnya bertindak atau merespon terhadap tanda-tanda awal masalah untuk mencegah situasi yang lebih buruk di masa depan. Jangan biarkan diri kita terjebak dalam ketidaksadaran seperti katak dalam air panas atau mengabaikan tanda-tanda kecil yang bisa menjadi sumber masalah yang lebih besar. |https://drive.google.com/file/d/1QL88u2d39r2HWIFn9KW735Kf8NsHOWh_/view?usp=sharing |

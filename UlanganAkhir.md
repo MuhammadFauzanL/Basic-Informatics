@@ -61,6 +61,7 @@ NO|SOAL|MEDIA
 |30|Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v]| ⭐⭐⭐|
 |31| Mencoba Web Tool AI Discriminative (Image Classification) [v] |⭐⭐⭐⭐|
 |32| Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v]  |⭐⭐⭐⭐|
+||Seb Tool AI Generative Text to ImageMemmbuat menggunakan BING AI A young programmer is busy facing a vibrant desktop screen. From a rear view, it can be seen that the programmer is doing a program using headphones, the image doesnt glossy|![image](https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/6a224008-2247-49f7-8331-3e2e71f25b01)|
 |33|Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] |⭐⭐⭐|
 |34| Mencoba Data Visualization Dengan Tools [v] |⭐⭐|
 ||Mencoba visualisasi data menggunakan RawGraphs tapi masih menggunakan sample yang tersedia, mencoba menggunakan csv yang dibuat dari kaggle(nomor 37) tetapi data di decline |<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/38282aff-1fa2-4b79-b161-8d92a9c4ca2b">|

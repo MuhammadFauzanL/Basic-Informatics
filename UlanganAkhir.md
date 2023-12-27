@@ -59,7 +59,6 @@ NO|SOAL|MEDIA
 ||||
 |29|Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] |⭐⭐|
 ||Pertama-tama memmpelajari dulu logic dalam mengontrol object yang digerakan oleh pemain/ user | website : https://turtleacademy.com/ <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/d566f077-a270-4473-ab5c-7c5294aa204b"> encapai Stage 4 Yang dimana setiap stage dalam latihan memiliki 7 Butir <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/ceb6123c-b097-44e6-9a3e-ea8a285faf66">
-|
 |30|Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v]| ⭐⭐⭐|
 |31| Mencoba Web Tool AI Discriminative (Image Classification) [v] |⭐⭐⭐⭐|
 |32| Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v]  |⭐⭐⭐⭐|

@@ -63,6 +63,7 @@ NO|SOAL|MEDIA
 |32| Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v]  |⭐⭐⭐⭐|
 |33|Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] |⭐⭐⭐|
 |34| Mencoba Data Visualization Dengan Tools [v] |⭐⭐|
+||Mencoba visualisasi data menggunakan RawGraphs tapi masih menggunakan sample yang tersedia, mencoba menggunakan csv yang dibuat dari kaggle(nomor 37) tetapi data di decline |<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/38282aff-1fa2-4b79-b161-8d92a9c4ca2b">|
 |35| Mencoba Data Visualization Dengan Code [v] |⭐⭐|
 ||Mencoba visualisasi tingkat kemakmusaran masyarakat tiap tahunnya dengan grafik X = Sebagai tingkatannya dan Y= Tahunnya |https://colab.research.google.com/drive/143cgP0yJRndGaAQLPi96iRWNWCdR15q-?usp=sharing <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/04a265e7-8e1d-44e2-ad04-fee3ce9a7f40">|
 |36| Mendaftar dan Mencoba Eksplorasi HuggingFace [v] |⭐⭐⭐|

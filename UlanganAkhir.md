@@ -20,7 +20,7 @@ NO|SOAL|MEDIA
 | 9 |  Mencoba Algoritma Bubble Sort Menggunakan Java [v] | ⭐⭐⭐ |
 |   | Pada Algoritma Bubble sort ini menggunakan Array untuk mengisi nilai, untuk pengeksekusian dapat dilihat sebagai berikut  | https://drive.google.com/file/d/1bMXQ4QNTbU6IzIQK-YhmrVynIV3GF06Z/view?usp=drive_link |
 |10 |Mencoba dan Mendemonstrasikan Penggunakan IDE| ⭐⭐ |
-|||
+||Alat perangkat lunak yang disebut integrated development environment (IDE) membantu pemrogram dalam menulis kode dengan lebih efektif. Dengan mengintegrasikan fitur-fitur seperti pengeditan perangkat lunak, pembuatan, pengujian, dan pengemasan ke dalam program yang mudah digunakan, hal ini meningkatkan produktivitas pengembang. Pengembang perangkat lunak menggunakan IDE untuk membuat pekerjaan kita lebih sederhana, seperti halnya penulis menggunakan editor teks dan akuntan menggunakan spreadsheet. |Penggunaan Visual Studio Code  sebagai code editor <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/b2f19b3a-7cbe-4291-8544-321e1e49cb90">   Pengguna Android Studio sebagai emulator andorid untuk pembuatan apliikasi <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/67906115-51c5-40a8-b7f2-98ece0c69b77">|
 |11|  Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] |⭐⭐⭐⭐⭐|
 | | HackerRank pada saat ini masih mencoba- coba untuk beberapa bahasa seperti java dan pyhton, dan akan dikembangankan lebih jauh lagi | https://drive.google.com/file/d/1tU93dbmv8UdGKjodAOtPncw2fvQMglj6/view?usp=drive_link |
 |12| Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser| ⭐⭐⭐⭐⭐ |

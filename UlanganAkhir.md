@@ -34,8 +34,7 @@ NO|SOAL|MEDIA
 |16|Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v]|⭐⭐|
 ||||
 |17 | Mencoba Pelacakan Informasi Server dari Alamat Domain [v]| ⭐|
-||Mencoba melakukan pelacakan dengan bantun dari website https://ipsaya.com/hostinglokasi.php dan ketika suatu domain dicari dapat ditemukan data ip dan yang lainnya |contoh pelacakan menggunakan duolinggo <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/3ab1d3c7-d9b5-4527-a10b-c1700977ecb6">
-<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/d5d7439e-1703-49c7-a205-b7d897714df4">c|
+||Mencoba melakukan pelacakan dengan bantun dari website https://ipsaya.com/hostinglokasi.php dan ketika suatu domain dicari dapat ditemukan data ip dan yang lainnya |contoh pelacakan menggunakan duolinggo <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/3ab1d3c7-d9b5-4527-a10b-c1700977ecb6"><img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/d5d7439e-1703-49c7-a205-b7d897714df4">c|
 |18|mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] |⭐⭐⭐ |
 ||Membuat Text dan sedikit Interface pada web |https://drive.google.com/drive/folders/1UozsETiBolcjy7R_FwgeCGkh7UtoXRve?usp=drive_link|
 |19| Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v]| ⭐⭐⭐ |

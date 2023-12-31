@@ -56,8 +56,7 @@ NO|SOAL|MEDIA
 |27| Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) | ⭐⭐⭐ |
 ||||
 |28| Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] | ⭐⭐ |
-||Mencoba Edit Konten gambar menggunnakan photosop mengganti backround pada gambar, mencoba mengedit konten video  |sebelum ![4](https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/fe1f9395-71ca-4c81-898d-59075bc5144f)
-sesudah <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/d1c339cc-f215-463a-ad57-d70b1cd8f1b0">![4](https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/59e4454f-cb9d-4105-8778-55c0a78d05d1)|
+||Mencoba Edit Konten gambar menggunnakan photosop mengganti backround pada gambar, mencoba mengedit konten video  |sebelum ![4](https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/fe1f9395-71ca-4c81-898d-59075bc5144f)sesudah <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/d1c339cc-f215-463a-ad57-d70b1cd8f1b0">![4](https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/59e4454f-cb9d-4105-8778-55c0a78d05d1)|
 |29|Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] |⭐⭐|
 ||Pertama-tama memmpelajari dulu logic dalam mengontrol object yang digerakan oleh pemain/ user | website : https://turtleacademy.com/ <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/d566f077-a270-4473-ab5c-7c5294aa204b"> encapai Stage 4 Yang dimana setiap stage dalam latihan memiliki 7 Butir <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/ceb6123c-b097-44e6-9a3e-ea8a285faf66">
 |30|Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v]| ⭐⭐⭐|

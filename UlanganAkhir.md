@@ -61,6 +61,8 @@ NO|SOAL|MEDIA
 ||Pertama-tama memmpelajari dulu logic dalam mengontrol object yang digerakan oleh pemain/ user | website : https://turtleacademy.com/ <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/d566f077-a270-4473-ab5c-7c5294aa204b"> encapai Stage 4 Yang dimana setiap stage dalam latihan memiliki 7 Butir <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/ceb6123c-b097-44e6-9a3e-ea8a285faf66">
 |30|Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v]| ⭐⭐⭐|
 |31| Mencoba Web Tool AI Discriminative (Image Classification) [v] |⭐⭐⭐⭐|
+||Image Clasification Menggunakan bahasa pemograman  Python |<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/b794da99-b25f-41f8-9a8d-517ebcb4c7dc">
+|
 |32| Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v]  |⭐⭐⭐⭐|
 ||Web Tool AI Generative Text to Image Memmbuat menggunakan BING AI A young programmer is busy facing a vibrant desktop screen. From a rear view, it can be seen that the programmer is doing a program using headphones, the image doesnt glossy . Sedangkan untuk pembuat Text to Text menggunakan DeepAI dengan text "make a text film like toy story"|![image](https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/3c123cc9-f4fc-476e-80cc-b621ed34f797) tes<img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/9c645990-ef61-463a-8ae1-ae77d970ab72">|
 |33|Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] |⭐⭐⭐|

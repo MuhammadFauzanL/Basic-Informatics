@@ -54,7 +54,7 @@ NO|SOAL|MEDIA
 |26| Mencoba Penggunaan Content Management System (Wordpress) [v] | ⭐⭐⭐|
 |||https://fauzanlubada5.wordpress.com|
 |27| Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) | ⭐⭐⭐ |
-||||
+||**Gambar, icon, dan vektor:** -Flaticon https://www.flaticon.com/ -Pinterest https://id.pinterest.com/#top -Shutterstock https://www.shutterstock.com/ -imagesfreepik https://www.freepik.com/ -unsplash   https://unsplash.com/ -pexels  https://www.pexels.com/  -Pixabay  https://pixabay.com/   **Footage Video** : -Pexels Video https://www.pexels.com/search/videos/videos/  -Videvo: https://www.videvo.net/ -Coverr: https://coverr.co/  -Videezy: https://www.videezy.com/  -Pixabay: https://pixabay.com/id/videos/search/  **Audio** -Spotify https://open.spotify.com/  -Youtube Music  https://music.youtube.com/  -Soundclouds https://soundcloud.com/||
 |28| Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] | ⭐⭐ |
 ||Mencoba Edit Konten gambar menggunnakan photosop mengganti backround pada gambar, mencoba mengedit konten video untuk tugas fisika dasar   |sebelum ![4](https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/fe1f9395-71ca-4c81-898d-59075bc5144f)sesudah <img width="960" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/d1c339cc-f215-463a-ad57-d70b1cd8f1b0"><img width="960" alt="Screenshot 2023-12-31 150342" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/c485e265-8f07-4892-a899-f3ca328b575a">|
 |29|Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] |⭐⭐|

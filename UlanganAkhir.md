@@ -24,7 +24,7 @@ NO|SOAL|MEDIA
 |11|  Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] |⭐⭐⭐⭐⭐|
 | | HackerRank pada saat ini masih mencoba- coba untuk beberapa bahasa seperti java dan pyhton, dan akan dikembangankan lebih jauh lagi | https://drive.google.com/file/d/1tU93dbmv8UdGKjodAOtPncw2fvQMglj6/view?usp=drive_link , * Update setelah mencoba beberapa kali  <img width="400" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/bd1eb05a-ea8d-4dc2-9339-9b56d746a05e">|
 |12| Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser| ⭐⭐⭐⭐⭐ |
-| | |<img width="400" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/5c1b9e7d-d33e-44dd-a9cf-bba759296acc"><img width="400" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/fc4f4c9d-f820-4018-a9c6-dbfabc8f7e1c">|
+| | |<img width="400" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/5c1b9e7d-d33e-44dd-a9cf-bba759296acc"> <br> <img width="400" alt="image" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/fc4f4c9d-f820-4018-a9c6-dbfabc8f7e1c">|
 |13 | Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] | ⭐⭐⭐ |
 || Intralasi SQL Sudah namun belum digunakanan| <img width="400" alt="sql" src="https://github.com/MuhammadFauzanL/UASPENGENALANINFORMATIKA/assets/141022549/c9603476-9950-4949-a642-dba26a5f763a">|
 | 14 |Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] | ⭐⭐⭐ |
